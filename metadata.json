@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Worker Telegram Voucher Bot Studio",
+  "description": "Single-file Cloudflare Workers Telegram Bot backend with BOT_KV storage, ReplyKeyboardMarkup navigation, Force Join gate, multi-step Admin state machine, and interactive live simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
